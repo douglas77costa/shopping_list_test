@@ -1,4 +1,4 @@
-# Pokedex
+# Shopping List Test CRUD
 A shopping list app made in flutter for testing
 
 ### Architecture
