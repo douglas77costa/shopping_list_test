@@ -4,7 +4,7 @@ A shopping list app made in flutter for testing
 ### Architecture
 The project used the concepts of clean architecture, which makes the project modular, facilitating the implementation and maintenance of the code.
 
-### Pacotes
+### Packs
 
 Some packages used:
 
